@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Sohit Sahu  
 
-<!--
-**Sohit62664/Sohit62664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Student | Electronics & Communication Engineering**  
+📍 VIT Bhopal University  
+💻 Passionate about **Data Structures, Algorithms, Core CS & Electronics**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 📘 Currently focusing on **DSA with Java**
+- 🧠 Strong interest in **problem-solving & logic building**
+- 🔁 Following **365 Days of Coding Journey**
+- 🌱 Learning **Core CS + Electronics fundamentals**
+- 🎯 Goal: **Internship in software / core tech domain**
+
+---
+
+## 🛠️ Skills
+- **Languages:** Java, C++, Python 
+- **DSA:** Arrays, Linked List, Stack, Queue, Trees, Graphs... 
+- **Web Basics:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📂 Coding Journey
+📌 Practicing problems daily  
+📌 Uploading solutions with **clean logic & explanations**  
+📌 Focus on **concept clarity over shortcuts**
+
+---
+
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/sohit-sahu-04120932b/  
+- 📧 Email: sohit662006@gmail.com  
+
+---
+
+⭐ *“Consistency beats motivation.”*
