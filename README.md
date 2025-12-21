@@ -11,7 +11,7 @@
 - 🧠 Strong interest in **problem-solving & logic building**
 - 🔁 Following **365 Days of Coding Journey**
 - 🌱 Learning **Core CS + Electronics fundamentals**
-- 🎯 Goal: **Internship in software / core tech domain**
+- 🎯 Goal: **Learning Advance DSA and Full Stack Devlopment**
 
 ---
 
