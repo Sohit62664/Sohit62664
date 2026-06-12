@@ -4,15 +4,15 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sohit62664&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=Sohit62664&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Sohit62664?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers" />
+<img src="https://img.shields.io/github/followers/Sohit62664?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers" /> -->
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<!-- <img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> -->
 
 ## 👨‍💻 About Me
 
